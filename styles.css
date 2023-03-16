@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i.redd.it/vdhgv54ndnj21.png");
+    background-size: cover;
+}
+.questions{border-style:groove;
+    border-width:10px;
+	text-align:center;
+	padding:1px;
+	margin:50px;
+	margin-left:700px;
+    margin-right:700px;
+}
+
+.p{display:flex;
+    justify-content:center;
+}
+
+.p2{display:flex;
+    justify-content:center;
+}
+
+.p3{display:flex;
+    justify-content:center;
+}
+.idk{display:flex;
+justify-content:center;}
