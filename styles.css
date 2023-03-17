@@ -6,9 +6,9 @@ body {
     border-width:10px;
 	text-align:center;
 	padding:1px;
-	margin:50px;
-	margin-left:00px;
-    margin-right:700px;
+	margin:auto;
+	
+    
 }
 
 .p{display:flex;
